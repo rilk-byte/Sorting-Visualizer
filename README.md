@@ -43,9 +43,10 @@ Each algorithm is implemented using generator functions to allow step-by-step vi
 ---
 
 ##  Preview
-```md
-![Demo](screenshot.png)
-```
+
+![Demo](screenshot (4).png)
+![Demo](screenshot (5).png)
+
 
 ---
 
@@ -53,6 +54,6 @@ Each algorithm is implemented using generator functions to allow step-by-step vi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/rilk-byte/sorting-visualizer.git
 cd sorting-visualizer
 ```
