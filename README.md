@@ -44,8 +44,8 @@ Each algorithm is implemented using generator functions to allow step-by-step vi
 
 ##  Preview
 
-![Demo](screenshot (4).png)
-![Demo](screenshot (5).png)
+![Demo](screenshot.png)
+![Demo](screenshot1.png)
 
 
 ---
